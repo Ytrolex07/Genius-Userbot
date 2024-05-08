@@ -62,7 +62,7 @@ Genius Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Aditya Server](https://t.me/yt_farman).**
+🌷Powered By : [YT FARMAN](https://t.me/yt_farman).**
 """
     
     if plug_match:
